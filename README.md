@@ -1,1 +1,4 @@
-<iframe src="https://giphy.com/embed/eVSqI3mZYfaDIXYsnS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-eVSqI3mZYfaDIXYsnS">via GIPHY</a></p>
+<div align="center">
+    <img src="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-eVSqI3mZYfaDIXYsnS">
+</div>
+
