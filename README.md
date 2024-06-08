@@ -17,5 +17,5 @@
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 30vh; left: 15vw; height: 15vh; object-fit: cover; background-size: cover!important; width: 10vw; opacity: 1; background: url('https://github.com/Montoya086/Montoya086/assets/84055444/87f80c10-ead5-4c0b-b158-e77c09830b45');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 20vh; left: 10vw; height: 15vh; object-fit: cover; background-size: cover!important; width: 10vw; opacity: 1; background: url('https://github.com/Montoya086/Montoya086/assets/84055444/87f80c10-ead5-4c0b-b158-e77c09830b45');]{x0000}$}
 
