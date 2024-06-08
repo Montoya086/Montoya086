@@ -10,4 +10,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/{montoya086}/count.svg)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Montoya086/Montoya086/assets/84055444/162f05a0-8053-49bf-bcaa-8b03702bb9cf');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Montoya086/Montoya086/assets/84055444/2842b115-481f-4332-b210-c456fb2df19c');]{x0000}$}
+
