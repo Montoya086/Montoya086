@@ -10,4 +10,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/{montoya086}/count.svg)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://imgflip.com/s/meme/Cute-Cat.jpg](https://github.com/Montoya086/Montoya086/blob/main/WhatsApp%20Image%202024-06-07%20at%2018.17.20.jpeg)');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Montoya086/Montoya086/blob/main/WhatsApp%20Image%202024-06-07%20at%2018.17.20.jpeg');]{x0000}$}
