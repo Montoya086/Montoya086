@@ -10,4 +10,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/{montoya086}/count.svg)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://i.ibb.co/Xs7G9gf/569c6c8e-de19-4f94-a37b-c47e693c330d.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://i.ibb.co/GMbcw1x/Whats-App-Image-2024-06-07-at-18-17-20.jpg');]{x0000}$}
